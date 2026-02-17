@@ -1,0 +1,24 @@
+Power BI Steps Used in This Project:
+
+1. Data Import:
+   - Cleaned CSV file imported into Power BI.
+
+2. Data Transformation (Power Query):
+   - Removed duplicates
+   - Fixed data types
+   - Created Month column
+   - Created Region mapping
+
+3. DAX Measures:
+   - Total Sales = SUM(Sales)
+   - Total Profit = SUM(Profit)
+   - YoY Growth formula
+
+4. Visuals Included:
+   - Sales Trend (Line Chart)
+   - Region-wise Sales (Bar Chart)
+   - Top 5 Products (Column Chart)
+   - KPI Cards
+
+5. Final Output:
+   - Interactive dashboard showing Sales Performance.
